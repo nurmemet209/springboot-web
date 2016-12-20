@@ -16,7 +16,8 @@ public class PathLearCotroller {
     }
 }
 ```
-
+@ModelAttribute
+@SessionAttributes
 
 # springboot-web 多环境的配置
 resource 目录下新建三个文件，分别为application-dev.properties：开发环境 application-test.properties：测试环境 
@@ -167,3 +168,5 @@ public class UserControllerTest  extends MockMvcResultMatchers {
     }
 }
 ```
+* 多数据源配置
+
