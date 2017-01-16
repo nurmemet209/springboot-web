@@ -216,3 +216,7 @@ public class UserControllerTest  extends MockMvcResultMatchers {
 ```
 * 多数据源配置
 
+# springboot所有可配置属性集合
+http://docs.spring.io/spring-boot/docs/1.4.0.RELEASE/reference/htmlsingle/#common-application-properties
+
+
